@@ -13,6 +13,5 @@ CREATE TABLE `mygallery`.`users` ( `users_id` INT NOT NULL AUTO_INCREMENT , `use
 
 CREATE TABLE `mygallery`.`images` ( `image_id` INT NOT NULL AUTO_INCREMENT , `image_author` VARCHAR(255) NOT NULL , `description` VARCHAR(255) NOT NULL , `image` VARCHAR(255) NOT NULL , PRIMARY KEY (`image_id`)) ENGINE = InnoDB;
 
-Video walkthrouugh on project
 
 
